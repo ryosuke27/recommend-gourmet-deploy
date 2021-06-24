@@ -28,5 +28,8 @@
     },
     "dependencies": {
         "vue-router": "^3.5.1"
+    },
+    "engines": {
+        "node": "12.x"
     }
 }
